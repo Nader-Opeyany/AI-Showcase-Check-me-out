@@ -1,0 +1,1 @@
+Check out my work in both fully connected Neural Networks and CNN's. My highlight was analyzing sentiment towards certain phrases in reddit post titles and the interactions based off of word choice. Email me with any questions at naderopeyany@gmail.com
